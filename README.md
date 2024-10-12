@@ -43,16 +43,16 @@ To run the project, use the following command:
 
 
 # Project Structure
-
-express-ts-template-4.21.0/
-│
-├── src/
-│   ├── index.ts        # Entry point of the application
-│   └── ...             # Other files and folders
-│
-├── package.json        # npm configuration
-├── tsconfig.json       # TypeScript configuration
-└── ...
+    ```bash
+    express-ts-template-4.21.0/
+    │
+    ├── src/
+    │   ├── index.ts        # Entry point of the application
+    │   └── ...             # Other files and folders
+    │
+    ├── package.json        # npm configuration
+    ├── tsconfig.json       # TypeScript configuration
+    └── ...
 
 # Contributing
 ***If you would like to contribute to this project, please fork the repository and submit a pull request***
